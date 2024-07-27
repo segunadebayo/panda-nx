@@ -1,0 +1,9 @@
+{
+  "name": "styled-system",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/styled-system/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project styled-system --web",
+  "targets": {}
+}
